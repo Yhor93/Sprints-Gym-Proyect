@@ -25,6 +25,7 @@ en pro de construir habitos saludables.
 
 ## :card_file_box:Tecnologias Utilizadas <br>
 :pushpin: C# <br>
+:pushpin: .NET CORE <br>
 :pushpin: Html <br>
 :pushpin: Css <br>
 :pushpin: JavaScript <br>
